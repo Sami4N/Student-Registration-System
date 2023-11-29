@@ -1,4 +1,4 @@
-# Student Registration System
+# Student Registration System with JAVA
 
 This is a simple Java console application for a Student Registration System developed for the College of Computing and Informatics (CCI).
 
